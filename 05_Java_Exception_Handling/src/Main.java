@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// Cosa e' un'eccezione?
+// Un errore a runtime che, se non gestito, crasha il programma. Java obbliga a pensarci in anticipo.
+
 public class Main {
     public static void main(String[] args){
         Banca banca = new Banca("Fauser");
